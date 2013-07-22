@@ -1,4 +1,3 @@
-
 # Comments
 // Line Comment
 /* Block Comment */
@@ -44,10 +43,12 @@ func add(x int, y int) int {
 }
 
 
-#unknown
+#bitwise
 
-<<
->>
+<< left shift (i.e. x2)
+>> right shift (i.e. /2)
+1<<2 = 100(bin) = 4
+8>>2 = 10(bin) = 2
 unbounded slices??
 
 
